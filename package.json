@@ -1,0 +1,16 @@
+{
+  "name": "markov",
+  "version": "1.0.0",
+  "description": "markov assignment",
+  "main": "makeText.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dw",
+  "license": "ISC",
+  "dependencies": {
+    "html-to-text": "^7.0.0",
+    "string-strip-html": "^8.2.13",
+    "strip_tags": "^1.0.1"
+  }
+}
